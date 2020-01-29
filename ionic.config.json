@@ -1,0 +1,9 @@
+{
+  "name": "ionic_Start",
+  "typescript": true,
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "3fff720e"
+}
