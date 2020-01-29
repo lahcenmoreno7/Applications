@@ -31,13 +31,10 @@ $ npm install
 $ ionic serve -l
 ```
 
-More about here: [Ionic 4 Start Theme (ionictheme.com)](https://ionictheme.com/ionic4-start-theme-free)
 
 ___
 
-## Know Ionic 3 Start Theme
 
-* [Ionic 3 Start Theme (Github)](https://github.com/ionictheme/ionic3-start-theme)
 
 ## Know Our paid themes
 
